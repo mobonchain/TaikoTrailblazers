@@ -1,4 +1,2 @@
-const repairtConfig = {
-    repairtAddress: "0x3b95d7b6bb5663ead3683f5f5b78b681c6bbbc06"
-};
-module.exports = repairtConfig;
+const repairtAddress = "0x797fa459e207af1a384aab675731a68fcd1f2eb9";
+module.exports = { repairtAddress };
